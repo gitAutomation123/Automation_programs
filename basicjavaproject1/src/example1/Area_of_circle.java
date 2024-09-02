@@ -18,6 +18,8 @@ public static void main(String[] args) {
      System.out.println("area of circle is= "+res);
      
      System.out.println("program ends");
+	 System.out.println("program lose");
+	
 	
 		
 		
